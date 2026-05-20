@@ -6,7 +6,7 @@ SDRStudio is currently alpha software and under active development.
 
 ## Download
 
-Download the latest SDRStudio installer from the repository Releases page:
+Download the latest SDRStudio installer from the [Releases page](releases/latest):
 
 ```text
 SdrStudioSetup-<version>.exe

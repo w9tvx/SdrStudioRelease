@@ -78,3 +78,5 @@ Open help from inside the application.
 Created by Ross Dargahi, W9TVX, with assistance from ChatGPT Codex.
 
 Copyright (c) 2026 Ross Dargahi. All rights reserved.
+
+

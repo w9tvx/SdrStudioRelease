@@ -28,9 +28,9 @@ The Widget Composer provides a rich set of omponents that are the building block
 
 - **Radio RX Filter** - Controls slice RX filter low, high, width, and shift settings. This is useful for building dedicated receive-filter controls for different modes or operating styles.
 
-- **Radio Text** - Displays radio, slice, and network values as text readouts. Use it for clear status displays such as frequency, nickname, IP information, slice state, or other radio data.
+- **Radio Text** - Displays, and for non-readonly values allows the editing of, radio, slice, and network values as text readouts. Use it for clear status displays such as frequency, nickname, IP information, slice state, or other radio data.
 
-- **Slice Selector** - Chooses the slice used by slice-dependent components in a widget. This lets a widget target a specific slice instead of relying only on the main application selection.
+- **Slice Selector** - Chooses the slice used by slice-dependent components in a widget. This lets a widget target a specific slice instead of relying only on the main application's master slice selection.
 
 - **Space Weather** - Displays current solar and propagation information from HAMQSL. Use it to keep an eye on solar flux, sunspots, A/K index, X-ray class, aurora, HF band conditions, and related propagation indicators.
 

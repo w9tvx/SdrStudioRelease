@@ -1,10 +1,50 @@
 # SDRStudio
 
-SDRStudio is a Windows desktop application for building custom control surfaces for FlexRadio stations. It lets you compose task-specific widgets from radio-aware controls, save them to a widget library, and launch them quickly while operating SmartSDR.
+SDRStudio lets you build your own custom control surfaces for FlexRadio operation, so the tools you need are always one click away. Instead of working only inside a fixed application layout, you can create task-specific widgets for the way you actually operate: contesting, ragchewing, digital modes, DX chasing, station monitoring, or any other workflow you want to streamline.
 
-<a href="https://youtu.be/ei4kXl-OwkI">
-  <img src="docs/images/SDRStudioBriefIntroThumbNail.png" alt="Watch SDRStudio overview on YouTube" width="400">
-</a>
+With SDRStudio's Widget Composer, you can combine radio-aware controls such as buttons, meters, readouts, selectors, numeric inputs, and profile controls into reusable widgets, then save them to your library and launch them from the main window whenever you need them. SDRStudio is designed to make SmartSDR feel more personal and more efficient by letting you shape the operating surface around your station, your habits, and the controls you reach for most.
+
+The Widget Composer provides a rich set of omponents that are the building blocks for creating custom widgets. Each widget can be assembled from one or more components, letting you combine simple radio-aware controls into a custom operating panel that matches a specific task, station setup, or workflow. The following are the list of available components: 
+
+- **Action Command** - Runs a configured sequence of radio or slice actions from a single button. Use it for one-click operating tasks, quick station changes, or custom command macros.
+
+- **Command Line** - Sends raw commands to the radio and displays the response. This is useful for advanced users who want direct command access inside a widget.
+
+- **Radio Boolean** - Displays or toggles on/off radio properties such as VOX, DAX TX, or Mic Bias. It can be styled as a normal button or a lit indicator-style control.
+
+- **Radio Equalizer** - Provides TX or RX equalizer controls for audio shaping. Use it to build quick access panels for transmit audio, receive audio, or operating-specific EQ settings.
+
+- **Radio Frequency** - Displays and tunes a slice frequency. It gives you a focused frequency control that can be placed exactly where you want it in a custom widget.
+
+- **Radio List** - Selects from radio properties that have a fixed set of choices. This is useful for modes, options, and other settings where the radio exposes a defined list of values.
+
+- **Radio Meter** - Displays live radio, slice, or DAX meter values. Meters can be used to monitor levels, signal behavior, power, SWR, and other changing values at a glance.
+
+- **Radio Numeric** - Adjusts numeric radio properties using a knob or slider. Use it for settings such as gain, levels, filter values, or other precise numeric controls.
+
+- **Radio Preset** - Creates preset buttons for radio numeric and list properties. This is useful when you want fast access to known-good values without manually adjusting a control each time.
+
+- **Radio Profile** - Selects Mic, TX, or Global radio profiles. It makes profile changes available directly from your custom operating surface.
+
+- **Radio RX Filter** - Controls slice RX filter low, high, width, and shift settings. This is useful for building dedicated receive-filter controls for different modes or operating styles.
+
+- **Radio Text** - Displays radio, slice, and network values as text readouts. Use it for clear status displays such as frequency, nickname, IP information, slice state, or other radio data.
+
+- **Slice Selector** - Chooses the slice used by slice-dependent components in a widget. This lets a widget target a specific slice instead of relying only on the main application selection.
+
+- **Space Weather** - Displays current solar and propagation information from HAMQSL. Use it to keep an eye on solar flux, sunspots, A/K index, X-ray class, aurora, HF band conditions, and related propagation indicators.
+
+- **World Clock** - Shows a configurable analog or digital clock for a selected city and time zone. It is useful for DX work, contesting, and keeping track of operators or regions around the world.
+
+
+SDRStudio also makes it easy to share your work with other operators. Custom widgets can be exported as widget bundles and imported into another SDRStudio installation, so users can trade useful layouts, station tools, and operating workflows with the wider FlexRadio community. Build a widget once, refine it for your station, then share it so others can adapt it for their own operating style.
+
+## Videos
+
+- [A Brief Introduction](https://youtu.be/ei4kXl-OwkI)
+- [Widget Composer Overview](https://youtu.be/rPUchksGyWU)
+
+## Screenshots
 
 ## Download
 

@@ -2,7 +2,8 @@
 
 SDRStudio is a Windows desktop application for building custom control surfaces for FlexRadio stations. It lets you compose task-specific widgets from radio-aware controls, save them to a widget library, and launch them quickly while operating SmartSDR.
 
-[SDRStudio: Brief Introduction (Video 1)](https://youtu.be/ei4kXl-OwkI)
+
+
 
 ## Download
 

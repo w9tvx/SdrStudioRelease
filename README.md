@@ -73,6 +73,20 @@ The following are screenshots of various application windows
 The following are screenshots of some of the library widgets that are included with SDRStudio. They were all created using SDRStudio. Feel free to use and modify them. 
 
 <figure>
+  <img src="docs/images/libraryWidgets/SliceControlLibraryWidget.png" alt="Slice Control Widget">
+  <figcaption>Slice control widget</figcaption>
+</figure>
+
+<hr>
+
+<figure>
+  <img src="docs/images/libraryWidgets/RFPowerPresetsLibraryWidget.png" alt="Power Presets Widget">
+  <figcaption>Power presets widget</figcaption>
+</figure>
+
+<hr>
+
+<figure>
   <img src="docs/images/libraryWidgets/AudioInputLibraryComponent.png" alt="Audio Input Widget">
   <figcaption>Audio input widget</figcaption>
 </figure>
@@ -86,12 +100,6 @@ The following are screenshots of some of the library widgets that are included w
 
 <hr>
 
-<figure>
-  <img src="docs/images/libraryWidgets/RFPowerPresetsLibraryWidget.png" alt="Power Presets Widget">
-  <figcaption>Power presets widget</figcaption>
-</figure>
-
-<hr>
 
 <figure>
   <img src="docs/images/libraryWidgets/RXFilterLibraryComponent.png" alt="RX Filter Widget">
@@ -100,12 +108,6 @@ The following are screenshots of some of the library widgets that are included w
 
 <hr>
 
-<figure>
-  <img src="docs/images/libraryWidgets/SliceControlLibraryWidget.png" alt="Slice Control Widget">
-  <figcaption>Slice control widget</figcaption>
-</figure>
-
-<hr>
 
 <figure>
   <img src="docs/images/libraryWidgets/WorldClockLibraryWidget.png" alt="World Clock Widget">

@@ -41,8 +41,8 @@ SDRStudio also makes it easy to share your work with other operators. Custom wid
 ## Videos
 
 - [A Brief Introduction](https://youtu.be/ei4kXl-OwkI)
-- [Widget Composer Overview](https://youtu.be/rPUchksGyWU)
-- [Widget Composer Deeper Dive](https://youtu.be/zTmdJlmJJI8)
+- [Widget Editor Overview](https://youtu.be/rPUchksGyWU)
+- [Widget Editor Deeper Dive](https://youtu.be/zTmdJlmJJI8)
 
 ## Screenshots
 

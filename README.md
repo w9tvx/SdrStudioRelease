@@ -43,6 +43,7 @@ SDRStudio also makes it easy to share your work with other operators. Custom wid
 - [A Brief Introduction](https://youtu.be/ei4kXl-OwkI)
 - [Widget Editor Overview](https://youtu.be/rPUchksGyWU)
 - [Widget Editor Deeper Dive](https://youtu.be/zTmdJlmJJI8)
+- [Action Button Component](https://youtu.be/Pfo_ce5HcZw)
 
 ## Screenshots
 

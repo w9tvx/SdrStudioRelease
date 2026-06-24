@@ -36,23 +36,41 @@ The Widget Composer provides a rich set of omponents that are the building block
 
 - **World Clock** - Shows a configurable analog or digital clock for a selected city and time zone. It is useful for DX work, contesting, and keeping track of operators or regions around the world.
 
-
 SDRStudio also makes it easy to share your work with other operators. Custom widgets can be exported as widget bundles and imported into another SDRStudio installation, so users can trade useful layouts, station tools, and operating workflows with the wider FlexRadio community. Build a widget once, refine it for your station, then share it so others can adapt it for their own operating style.
 
 ## Videos
 
 - [A Brief Introduction](https://youtu.be/ei4kXl-OwkI)
 - [Widget Composer Overview](https://youtu.be/rPUchksGyWU)
+- [Widget Composer Deeper Dive](https://youtu.be/zTmdJlmJJI8)
 
 ## Screenshots
 
 ### Application
+The following are screenshots of various application windows
 
-![SdrStudio launcher panel](images/app/ConnectedToRadio.png)
+<figure>
+  <img src="docs/images/app/ConnectedToRadio.png" alt="Connection Window">
+  <figcaption>Connection window</figcaption>
+</figure>
+
+<hr>
+
+<figure>
+  <img src="docs/images/app/WidgetEditor.png" alt="Widget Editor">
+  <figcaption>Widget editor</figcaption>
+</figure>
+
+<hr>
+
+<figure>
+  <img src="docs/images/app/ActionButtonPlanEditor.png" alt="Action Button Plan Editor">
+  <figcaption>Action button plan editor</figcaption>
+</figure>
 
 ### Library Widgets
 
-
+The following are screenshots of some of the library widgets that are included with SDRStudio. They were all created using SDRStudio. Feel free to use and modify them. 
 
 ## Download
 

@@ -46,6 +46,14 @@ SDRStudio also makes it easy to share your work with other operators. Custom wid
 
 ## Screenshots
 
+### Application
+
+![SdrStudio launcher panel](images/app/ConnectedToRadio.png)
+
+### Library Widgets
+
+
+
 ## Download
 
 Download the latest SDRStudio installer from the [Releases page](releases/latest):

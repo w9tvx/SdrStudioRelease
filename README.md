@@ -115,7 +115,7 @@ The following are screenshots of some of the library widgets that are included w
 
 ## Download
 
-Download the latest SDRStudio installer from the [Releases page](releases/latest):
+Download the latest SDRStudio installer from the [Releases](https://github.com/w9tvx/SdrStudioRelease/releases/latest):
 
 ```text
 SdrStudioSetup-<version>.exe

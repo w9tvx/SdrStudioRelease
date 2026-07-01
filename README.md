@@ -2,9 +2,7 @@
 
 SDRStudio lets you build your own custom control surfaces for FlexRadio operation, so the tools you need are always one click away. Instead of working only inside a fixed application layout, you can create task-specific widgets for the way you actually operate: contesting, ragchewing, digital modes, DX chasing, station monitoring, or any other workflow you want to streamline.
 
-With SDRStudio's Widget Composer, you can combine radio-aware controls such as buttons, meters, readouts, selectors, numeric inputs, and profile controls into reusable widgets, then save them to your library and launch them from the main window whenever you need them. SDRStudio is designed to make SmartSDR feel more personal and more efficient by letting you shape the operating surface around your station, your habits, and the controls you reach for most.
-
-The Widget Composer provides a rich set of omponents that are the building blocks for creating custom widgets. Each widget can be assembled from one or more components, letting you combine simple radio-aware controls into a custom operating panel that matches a specific task, station setup, or workflow. The following are the list of available components: 
+With SDRStudio's Widget Composer provides a rich set of omponents that are the building blocks for creating custom widgets. Each widget can be assembled from one or more components, letting you combine simple radio-aware controls into a custom operating panel that matches a specific task, station setup, or workflow. The following are the list of available components: 
 
 - **Action Command** - Runs a configured sequence of radio or slice actions from a single button. Use it for one-click operating tasks, quick station changes, or custom command macros.
 
